@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://devvandanbudwel.com/sitemap.xml
+
+Sitemap: https://devvandanattapur.co.in/sitemap.xml
