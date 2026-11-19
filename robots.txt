@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devvandanbudwel.com/sitemap.xml
